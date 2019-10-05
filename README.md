@@ -1,6 +1,6 @@
-### SQL Query Exercises
+# SQL Query Exercises
 
-# Starting with Movies
+## Starting with Movies
 
 You've started a new movie-rating website, and you've been collecting data on reviewers' ratings of various movies. There's not much data yet, but you can still try out some interesting queries. Here's the schema:
 
